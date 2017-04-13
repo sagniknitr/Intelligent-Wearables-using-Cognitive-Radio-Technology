@@ -1,4 +1,4 @@
-# Intelligent-werable-using-Cognitive-Radio
+# Intelligent-wearable-using-Cognitive-Radio
 Undergraduate project
 
 
